@@ -11,7 +11,7 @@ const main = async() => {
     let x= (math.getRandomInt(10));
     let y= (math.getRandomInt(10));
     console.log("===================================================".yellow);
-    console.log("             * ".red, "Funciones Matematicas".bgRed,
+    console.log("             * ".red, "Operaciones Matematicas".bgRed,
     "   *".red);
     console.log("===================================================\n".green);
     console.log("===================================================".red);
